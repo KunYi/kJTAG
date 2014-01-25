@@ -16,3 +16,6 @@
 *.exe
 *.out
 *.app
+
+/win/driver/build/objfre_wxp_x86
+/win/driver/build/buildfre_wxp_x86.log
